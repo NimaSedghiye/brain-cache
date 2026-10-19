@@ -1,2 +1,2 @@
-# brain-cache
-My brain has limited RAM. GitHub is my swap space.
+🧠 Brain Cache
+A personal cache of things I've learned, broken, fixed, read, and occasionally understood.
