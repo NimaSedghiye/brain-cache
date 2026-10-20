@@ -34,6 +34,7 @@ environment, so follow along in its VM.
 
 | Scenario | Difficulty | Type | Topics | Documentation |
 | --- | --- | --- | --- | --- |
+| Saint John: What Is Writing to This Log File? | Easy | Fix | Processes, Open Files, Signals | [Read write-up](easy/saint-john/README.md) |
 | Manhattan: Can't Write Data into Database | Medium | Fix | Disk Volumes, PostgreSQL, systemd | [Read write-up](medium/manhattan/README.md) |
 
 Scenario types follow the terminology used by SadServers:
