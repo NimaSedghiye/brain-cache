@@ -36,6 +36,7 @@ environment, so follow along in its VM.
 | --- | --- | --- | --- | --- |
 | Saint John: What Is Writing to This Log File? | Easy | Fix | Processes, Open Files, Signals | [Read write-up](easy/saint-john/README.md) |
 | Manhattan: Can't Write Data into Database | Medium | Fix | Disk Volumes, PostgreSQL, systemd | [Read write-up](medium/manhattan/README.md) |
+| Tokyo: Can't Serve Web File | Medium | Fix | HTTP, Apache, iptables, File Permissions | [Read write-up](medium/tokyo/README.md) |
 
 Scenario types follow the terminology used by SadServers:
 
